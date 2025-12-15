@@ -7,7 +7,7 @@ title: AniDex - AniList Client for iOS
 
 <div align="center">
 
-<img src="./Resources/anidex-logo.svg" alt="App Icon" width="300" height="300" style="border-radius: 22.37%;">
+<img src="./Resources/anidex-logo.svg" alt="App Icon" width="300" height="300">
 
 **A native SwiftUI mobile client for AniList - Discover, track, and share your favorite anime and manga on-the-go**
 
