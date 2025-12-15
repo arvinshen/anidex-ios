@@ -109,7 +109,7 @@ This app is a client interface for AniList:
 - ✅ Authentication handled securely through AniList OAuth
 - ✅ All data storage and privacy policies follow AniList's terms
 
-Read the app's [Privacy Policy](https://arvinshen.github.io/anidex-ios/PRIVACY.md) and [Terms & Conditions](https://arvinshen.github.io/anidex-ios/TERMS.md).
+Read the app's [Privacy Policy](https://github.com/arvinshen/anidex-ios/blob/main/PRIVACY.md) and [Terms & Conditions](https://github.com/arvinshen/anidex-ios/blob/main/TERMS.md).
 
 For further information, see [AniList's Privacy Policy](https://anilist.co/terms)
 
