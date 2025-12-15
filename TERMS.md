@@ -1,3 +1,9 @@
+---
+layout: page
+title: AniDex - Terms & Conditions
+permalink: /terms/
+---
+
 # Terms and Conditions
 
 **Last Updated: December 14, 2025**

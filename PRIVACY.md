@@ -1,3 +1,9 @@
+---
+layout: page
+title: AniDex - Privacy Policy
+permalink: /privacy/
+---
+
 # Privacy Policy
 **Last Updated: November 18, 2025**
 
