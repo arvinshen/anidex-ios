@@ -66,7 +66,7 @@ title: AniDex - AniList Client for iOS
 
 ---
 
-## 🎨 Why Choose This Client?
+## Why Choose This Client?
 
 | | | |
 |---|---|---|
@@ -95,7 +95,7 @@ title: AniDex - AniList Client for iOS
 
 ---
 
-## 💡 How It Works
+## How It Works
 
 1. **Download & Install** - Get the app from the App Store
 2. **Sign In with AniList** - Connect your existing AniList account
@@ -104,7 +104,7 @@ title: AniDex - AniList Client for iOS
 
 ---
 
-## 🛡️ Privacy
+## Privacy
 
 This app is a client interface for AniList:
 
@@ -120,7 +120,7 @@ For further information, see [AniList's Privacy Policy](https://anilist.co/terms
 
 ---
 
-## 🆘 Support
+## Support
 
 Need help? We're here for you!
 
@@ -161,7 +161,7 @@ Need help? We're here for you!
 
 ---
 
-## 📱 System Requirements
+## System Requirements
 
 - **iOS:** 26.0 or later
 - **iPadOS:** 26.0 or later
@@ -172,7 +172,7 @@ Need help? We're here for you!
 
 ---
 
-## 📄 License
+## License
 
 Copyright © 2025 Arvin Shen. All rights reserved.
 
