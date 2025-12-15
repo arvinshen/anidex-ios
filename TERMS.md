@@ -1,3 +1,8 @@
+---
+layout: default
+title: AniDex - Terms & Conditions
+---
+
 # Terms and Conditions
 
 **Last Updated: December 14, 2025**

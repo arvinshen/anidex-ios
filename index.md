@@ -28,32 +28,28 @@ title: AniDex - AniList Client for iOS
 <table>
 <tr>
   <th width="50%">
-
-### 🎯 Core Features
-
+    <h3>🎯 Core Features</h3>
   </th>
   <th width="50%">
-
-### 🚀 Native Experience
-
+    <h3>🚀 Native Experience</h3>
   </th>
 </tr>
 <tr>
   <td width="50%" valign="top">
-
-  - **Comprehensive AniList Integration** - Access your entire anime and manga library
-  - **Update Your Lists** - Mark episodes watched, chapters read, and update scores
-  - **Browse & Discover** - Explore trending, popular, and seasonal content
-  - **Character & Staff Info** - Detailed information about your favorite characters and creators
-
+    <ul>
+      <li><strong>Comprehensive AniList Integration</strong> - Access your entire anime and manga library</li>
+      <li><strong>Update Your Lists</strong> - Mark episodes watched, chapters read, and update scores</li>
+      <li><strong>Browse & Discover</strong> - Explore trending, popular, and seasonal content</li>
+      <li><strong>Character & Staff Info</strong> - Detailed information about your favorite characters and creators</li>
+    </ul>
   </td>
   <td width="50%" valign="top">
-
-  - **Built with SwiftUI** - Modern, native iOS interface
-  - **Multi-Platform** - Seamless across iPhone, iPad, Mac, Vision Pro, and Apple Watch
-  - **Fast & Responsive** - Direct GraphQL API integration
-  - **Apple Ecosystem** - Designed for iOS, iPadOS, macOS<!--, visionOS, and watchOS -->
-
+    <ul>
+      <li><strong>Built with SwiftUI</strong> - Modern, native iOS interface</li>
+      <li><strong>Multi-Platform</strong> - Seamless across iPhone, iPad, Mac, Vision Pro, and Apple Watch</li>
+      <li><strong>Fast & Responsive</strong> - Direct GraphQL API integration</li>
+      <li><strong>Apple Ecosystem</strong> - Designed for iOS, iPadOS, macOS<!--, visionOS, and watchOS --></li>
+    </ul>
   </td>
 </tr>
 </table>
@@ -108,7 +104,7 @@ title: AniDex - AniList Client for iOS
 
 ---
 
-## 🛡️ Privacy & Data
+## 🛡️ Privacy
 
 This app is a client interface for AniList:
 
