@@ -12,7 +12,7 @@
 [![iOS 26.0+](https://img.shields.io/badge/iOS-26.0+-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/ios)
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-Native-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swiftui/)
 
-[Features](#-features) • [Screenshots](#-screenshots) • [Download](#-download) • [Privacy](#-privacy) • [Support](#-support)
+[Features](#-features) • [Screenshots](#-screenshots) • [Download](#-download) • [Privacy](#privacy) • [Support](#support)
 
 </div>
 
