@@ -7,7 +7,7 @@ permalink: /privacy/
 # Privacy Policy
 **Last Updated: November 18, 2025**
 
-This privacy policy applies to the AniDex app for mobile devices. AniDex is created as a Free service and is intended for use "AS IS".
+This privacy policy applies to all versions of Anidex, including iOS and tvOS versions. AniDex is created as a Free service and is intended for use "AS IS".
 
 AniDex does not directly collect, process, or sell any personal information or data from its users.
 
