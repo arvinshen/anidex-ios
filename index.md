@@ -135,7 +135,6 @@ Need help? We're here for you!
 
 **Coming Soon:**
 
-- [ ] Anime & Manga list management tabs
 - [ ] Settings modification
   - [ ] Profile
   - [ ] Account
@@ -148,7 +147,7 @@ Need help? We're here for you!
 - [ ] Anime airing notifications
 - [ ] Biometric support
 - [ ] Add new animations & improve existing ones
-- [ ] Accessibility support
+- [ ] Improve Accessibility support
 - [ ] Custom app icons and themes
 - [ ] Widget support for home screen
 - [ ] iPad & Mac optimizations
@@ -158,8 +157,6 @@ Need help? We're here for you!
 - [ ] Apple Watch compatibility
 - [ ] Apple Vision Pro compatibility
 - [ ] Multiple accounts support and easy switching between accounts
-- [ ] More customization options
-- [ ] Reduce App Size
 
 ---
 
