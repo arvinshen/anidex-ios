@@ -13,6 +13,8 @@ title: AniDex - AniList Client for iOS
 
 *AniDex is a third-party app and is not affiliated with AniList.*
 
+* Note: This app is still in beta on [TestFlight](https://testflight.apple.com/join/PR36FHCM) and I am working towards the initial App Store release.
+
 [![Download on App Store](https://img.shields.io/badge/Download-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/anidex/id6736376453)
 [![iOS 26.0+](https://img.shields.io/badge/iOS-26.0+-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/ios)
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-Native-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swiftui/)
@@ -60,7 +62,7 @@ title: AniDex - AniList Client for iOS
 
 <div align="center">
 
-<img src="https://via.placeholder.com/250x541/1a1a1a/667EEA?text=Home+Screen" width="250" alt="Home Screen"> <img src="https://via.placeholder.com/250x541/1a1a1a/667EEA?text=Feature+View" width="250" alt="Feature View"> <img src="https://via.placeholder.com/250x541/1a1a1a/667EEA?text=Settings" width="250" alt="Settings">
+<img src="./Resources/anidex-screenshot-home.png" width="250" alt="Home Screen"> <img src="./Resources/anidex-screenshot-feature.png" width="250" alt="Feature View"> <img src="./Resources/anidex-screenshot-settings.png" width="250" alt="Settings">
 
 </div>
 
